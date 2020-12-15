@@ -26,4 +26,9 @@ global $footer_google_privacy_policy_link;
 		<li><a href="<?= $footer_youtube_tos_link ?>" target="_blank">YouTube Terms of Service</a></li>
 		<li><a href="<?= $footer_google_privacy_policy_link ?>" target="_blank">Google Privacy Policy</a></li>
 	</ul>
+	<p>
+		<strong>Please contact Doug Holton or Brennen Cannon for assistance with 
+			<a href="https://training.it.ufl.edu/training/items/udoit.html" target="_blank">using UDOIT</a> or 
+			<a href="https://community.canvaslms.com/t5/Accessibility/How-to-Fix-and-Prevent-Accessibility-Issues-in-Your-Canvas/ba-p/274000" target="_blank">fixing accessibility issues.</a></strong>
+	</p>
 </footer>
